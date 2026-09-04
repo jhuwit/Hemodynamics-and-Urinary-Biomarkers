@@ -363,7 +363,7 @@ missingness_summary <- hemodynamics %>%
 
 
 
-# Old Biomarker Analyses
+# Preliminary Analyses
 
 ## Patient exclusion 
 
@@ -862,7 +862,7 @@ ggsave("zones.jpg",
 
 
 
-# New Biomarker Analyses
+# Final Analyses
 
 ## Red/White/Blue Zones {.tabset}
 ### AKI
